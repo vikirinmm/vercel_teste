@@ -135,20 +135,21 @@ body {
   .cabecalho {
     padding: 10%;
   }
+
   .cabecalho_menu {
     justify-content: center;
   }
 
   .corpo {
     flex-direction: column-reverse;
-    padding: 5% ;
+    padding: 5%;
   }
 
-  .corpo_sectiom{
+  .corpo_sectiom {
     width: auto;
   }
 
-  .eu{
+  .eu {
     width: 90%;
   }
 }
